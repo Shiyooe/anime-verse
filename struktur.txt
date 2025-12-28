@@ -1,0 +1,30 @@
+anime-list/
+├── config/
+│   └── db.php
+├── auth/
+│   ├── login.php
+│   ├── register.php
+│   ├── logout.php
+│   ├── forget.php
+│   └── reset.php
+├── admin/
+│   ├── index.php
+│   ├── anime_crud.php
+│   ├── genre_crud.php
+│   └── users.php
+├── user/
+│   ├── dashboard.php
+│   ├── mylist.php
+│   └── rate.php
+├── pages/
+│   ├── home.php
+│   ├── anime_detail.php
+│   └── search.php
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   └── auth_check.php
+├── assets/
+│   ├── css/
+│   └── img/
+└── index.php
